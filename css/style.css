@@ -1794,6 +1794,10 @@ html._touch .header-menu__arrow._active {
     margin: 0px 0px 20px 0px;
   }
 
+  .slider__main {
+    display: none;
+  }
+
   .brands__body {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
